@@ -10,3 +10,4 @@ class AppTextStyles {
     fontFamily: 'UberMoveBold',
   );
 }
+ 

@@ -38,6 +38,7 @@ dependencies:
   build_runner:
   flutter_bloc:
   freezed:
+  shared_preferences:
   freezed_annotation:
   get_it:
   json_serializable:
@@ -45,7 +46,10 @@ dependencies:
   dio:
   pretty_dio_logger:
   flutter_screenutil:
-
+  another_flushbar:
+  fluttertoast:
+  google_fonts: ^6.1.0
+  flutter_localization: ^0.2.0
 dev_dependencies:
   flutter_test:
     sdk: flutter
